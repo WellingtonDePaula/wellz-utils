@@ -59,6 +59,7 @@ namespace Wellz.Core.Utils {
 
         public int GetWidth() { return width; }
         public int GetHeight() { return height; }
+        public float GetCellSize() { return cellSize; }
 
         //public float GetCellSize() {
         //    return cellSize;
