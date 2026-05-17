@@ -1,0 +1,22 @@
+name: Update UPM Branch
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  split-upm:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Export UPM Branch
+        uses: mob-sakai/github-action-package-exporter@v1
+        with:
+          path: "Packages/com.wellz.utils" 
+          
+          branch: "upm"
+          
+          tag-prefix: "upm/"
