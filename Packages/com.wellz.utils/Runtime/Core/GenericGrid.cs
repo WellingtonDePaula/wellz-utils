@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace Wellz.Core.Utils {
+namespace Wellz.Utils.Core {
     public class GenericGrid<TGridType> {
         private int width;
         private int height;
