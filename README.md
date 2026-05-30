@@ -3,7 +3,7 @@
 A robust, highly optimized utility package for **Unity 6** designed to streamline 2D game development, grid-based architectures, and common mathematical or input operations.
 
 [![Unity Version](https://img.shields.io/badge/Unity-6000.0.0f1%2B-blue.svg)](https://unity.com/)
-[![Package Version](https://img.shields.io/badge/version-0.2.0-green.svg)](#)
+[![Package Version](https://img.shields.io/badge/version-0.3.0-green.svg)](#)
 [![Author](https://img.shields.io/badge/Author-Wellington%20Zeitz%20de%20Paula-orange.svg)](https://github.com/WellingtonDePaula)
 
 ---
