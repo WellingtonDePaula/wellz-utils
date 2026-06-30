@@ -1,0 +1,19 @@
+using System;
+using UnityEngine;
+
+public class #SCRIPTNAME#
+{
+    // Campos estáticos e constantes
+
+    // Campos privados para o estado interno da classe
+
+    // Propriedades para acesso controlado externo
+
+    // Construtores
+    public #SCRIPTNAME#()
+    {
+    }
+
+    #region Métodos públicos e privados da lógica da classe
+    #endregion
+}

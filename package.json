@@ -1,0 +1,16 @@
+{
+  "name": "com.wellz.utils",
+  "displayName": "Wellz Utils",
+  "version": "0.5.0",
+  "unity": "6000.0",
+  "unityRelease": "0f1",
+  "description": "Core utilities, extensions, and common patterns for Unity 6 projects developed by Wellz.",
+  "author": {
+    "name": "Wellington Zeitz de Paula",
+    "url": "https://github.com/WellingtonDePaula",
+    "email": "owellingtondepaula@gmail.com"
+  },
+  "changelogUrl": "https://github.com/WellingtonDePaula/wellz-utils",
+  "documentationUrl": "https://github.com/WellingtonDePaula/wellz-utils",
+  "licensesUrl": "https://github.com/WellingtonDePaula/wellz-utils"
+}
